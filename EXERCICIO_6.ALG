@@ -13,7 +13,7 @@ Var
 
 Inicio
 
-   escreva("Informe o sexo - M (masculino), F (feminino) ou P (encerrar): ")
+   escreva("Informe o sexo - M (masculino), F (feminino) ou P (parar): ")
    leia(sexo)
    
    cont_sexoM <- 0
