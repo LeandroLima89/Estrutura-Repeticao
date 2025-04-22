@@ -1,7 +1,7 @@
 Algoritmo "Exercicio_2"
 // Disciplina   : Algoritmo
 // Professor   : Leandro Gonzalez
-// Descrição   : Somar todos os números de 1 até 100
+// Descrição   : Imprime o quadrado de cada número
 // Autor(a)    : Leandro Lima
 // Data atual  : 22/04/2025
 
