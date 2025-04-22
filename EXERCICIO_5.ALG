@@ -2,7 +2,7 @@ Algoritmo "Exercicio_5"
 
 // Disciplina   : Algoritmo
 // Professor   : Leandro Gonzalez
-// Descrição   : Imprime quantidade de programadores informados no sitema
+// Descrição   : Imprime quantidade de programadores informados no sistema
 // Autor(a)    : Leandro Lima
 // Data atual  : 22/04/2025
 
