@@ -12,7 +12,7 @@ Var
 
 Inicio
 
-   escreva("Informe a idade: ")
+   escreva("Informe a idade ou digite 0 para encerrar: ")
    leia(idade)
    
    enquanto idade <> 0 faca
@@ -23,7 +23,7 @@ Inicio
             totalMaior50 <- totalMaior50 + 1
          fimse
       fimse
-      escreva("Informe a idade: ")
+      escreva("Informe a idade ou digite 0 para encerrar: ")
       leia(idade)
    fimenquanto
    
