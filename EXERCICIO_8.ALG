@@ -27,6 +27,7 @@ Inicio
       leia(idade)
    fimenquanto
    
+   escreval
    escreval("Total de pessoas com menos de 21 anos = ",totalMenor21," pessoas.")
    escreval("Total de pessoas com mais de 50 anos = ",totalMaior50," pessoas.")
 
