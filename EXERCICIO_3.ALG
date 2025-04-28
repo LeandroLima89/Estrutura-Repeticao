@@ -2,7 +2,7 @@ Algoritmo "Exercicio_3"
 
 // Disciplina   : Algoritmo
 // Professor   : Leandro Gonzalez
-// Descrição   : Infoma quantos números entre 100 e 200 foram digitados
+// DescriÃ§Ã£o   : Infoma quantos nÃºmeros entre 100 e 200 foram digitados
 // Autor(a)    : Leandro Lima
 // Data atual  : 22/04/2025
 
@@ -12,18 +12,18 @@ Var
 
 Inicio
 
-   escreva("Digite um número: ")
+   escreva("Digite um nÃºmero: ")
    leia(numero)
    cont <- 0
    enquanto numero <> 0 faca
-      se (numero > 100) e (numero < 200) então
+      se (numero > 100) e (numero < 200) entao 
          cont <- cont + 1
       fimse
-      escreva("Digite um número: ")
+      escreva("Digite um nÃºmero: ")
       leia(numero)
    fimenquanto
    
-   escreval("Foram digitados", cont, " números entre 100 e 200.")
+   escreval("Foram digitados", cont, " nÃºmeros entre 100 e 200.")
 
 
 Fimalgoritmo
